@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chetankumar-Akarte
+- 👋 Hi, I’m Chetankumar-Akarte
 - 👀 I’m interested in Flutter Development, Freelancing 
 - 🌱 I’m currently learning some cool flutter feature's and packages 
 - 💞️ I’m looking to collaborate on Open Source flutter projects 
