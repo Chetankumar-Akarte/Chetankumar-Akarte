@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 - &#129464; Hi, I’m Chetankumar-Akarte
-- 🔭 I’m currently working with CMS Computers as **Senior Solution Architect Mobility**
+- 🔭 I’m currently open to work looking for roles **Solution Architect, Mobile Architect, Flutter Architect**
 - 👀 I’m interested in **Flutter Development, Freelancing**
 - 🌱 I’m currently learning some cool flutter feature's and packages 
 - 💞️ I’m looking to collaborate on Open Source flutter projects
